@@ -1,0 +1,5 @@
+.
+../src
+../../base
+../../application
+/opt/boost/boost_1_83_0/include
